@@ -49,18 +49,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视频道",女性时尚
-http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="央视频道",卫生健康
-http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",风云剧场
-http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视频道",风云音乐
-http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
-#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视频道",文化精品
-http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视频道",电视指南
-http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+
+
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
@@ -70,9 +60,9 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台频道",凤凰中文
-https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台频道",凤凰资讯
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰香港
 https://z88.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
 
