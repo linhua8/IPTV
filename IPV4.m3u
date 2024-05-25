@@ -10,7 +10,7 @@ http://live.nctv.top/8/bestv.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://live.nctv.top/8/bestv.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://live.nctv.top/8/bestv.php?id=cctv5P
+http://live.nctv.top/8/bestv.php?id=cctv5p2
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://live.nctv.top/8/bestv.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
@@ -35,8 +35,8 @@ http://live.nctv.top/8/bestv.php?id=cctv15
 http://live.nctv.top/8/bestv.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://live.nctv.top/8/bestv.php?id=cctv17
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
-http://live.nctv.top/8/bestv.php?id=cctv164K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+http://live.nctv.top/8/bestv.php?id=cctv4k
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",兵器科技
 http://118.249.5.255:8888/rtp/239.76.254.59:9000
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",世界地理
@@ -65,9 +65,9 @@ http://118.249.5.255:8888/rtp/239.76.254.61:9000
 
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台频道",凤凰中文
-http://120.41.124.228:8888/rtp/239.61.2.184:9092
+http://113.64.145.195:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台频道",凤凰资讯
-http://120.41.124.228:8888/rtp/239.61.2.183:9086
+http://113.64.145.195:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰香港
 http://grandprix2023.asuscomm.com:8892/bysid/85
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台频道",翡翠台
