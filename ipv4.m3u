@@ -1,42 +1,42 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://guany.myds.me:25852/rtp/233.50.201.118:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.45:8008
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://guany.myds.me:25852/rtp/233.50.201.119:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.158:6000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://guany.myds.me:25852/rtp/233.50.201.196:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.159:6000
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://iku.sunnyli.link:4144/udp/239.252.219.192:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.190:6307
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://guany.myds.me:25852/rtp/233.50.201.197:5140
+http://mail.petzhu.top:7000/rtp/239.254.201.153:7206
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://guany.myds.me:25852/rtp/233.50.201.220:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.46:8004
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://guany.myds.me:25852/rtp/233.50.201.198:5140
+http://mail.petzhu.top:7000/rtp/239.254.201.154:7207
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://guany.myds.me:25852/rtp/233.50.201.120:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.159:6000
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://guany.myds.me:25852/rtp/233.50.201.199:5140
+http://mail.petzhu.top:7000/rtp/239.254.201.155:7208
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://guany.myds.me:25852/rtp/233.50.201.121:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.59:8112
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://guany.myds.me:25852/rtp/233.50.201.122:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.160:6000
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://iku.sunnyli.link:4144/udp/239.252.219.78:5140
+http://mail.petzhu.top:7000/rtp/239.254.201.123:8120
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://guany.myds.me:25852/rtp/233.50.201.123:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.161:6000
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://guany.myds.me:25852/rtp/233.50.201.246:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.9:8264
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://guany.myds.me:25852/rtp/233.50.201.124:5140
+http://mail.petzhu.top:7000/rtp/239.254.200.162:6000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://iku.sunnyli.link:4144/udp/239.252.219.79:5140
+http://mail.petzhu.top:7000/rtp/239.254.201.124:8136
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://guany.myds.me:25852/rtp/233.50.201.192:5140
+http://mail.petzhu.top:7000/rtp/239.254.201.150:6345
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://iku.sunnyli.link:4144/udp/239.252.220.192:5140
+http://mail.petzhu.top:7000/rtp/239.254.201.120:8144
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
-http://guany.myds.me:25852/rtp/233.50.201.63:5140
+http://mail.petzhu.top:7000/rtp/239.254.201.150:6345
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
