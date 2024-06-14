@@ -6,9 +6,9 @@ http://dms.yryyj.site:8188/udp/239.76.253.152:9000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://dms.yryyj.site:8188/udp/239.76.253.153:9000
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://dms.yryyj.site:8188/udp/239.76.253.153:9000
+http://dms.yryyj.site:8188/udp/239.76.253.154:9000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://dms.yryyj.site:8188/udp/239.76.253.153:9000
+http://dms.yryyj.site:8188/udp/239.76.253.155:9000
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://dms.yryyj.site:8188/udp/239.76.253.168:9000
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
@@ -26,7 +26,7 @@ http://dms.yryyj.site:8188/udp/239.76.252.251:9000
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
 http://dms.yryyj.site:8188/udp/239.76.253.162:9000
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://dms.yryyj.site:8188/udp/239.76.253.163:9000
+http://guany.myds.me:25852/rtp/233.50.201.246:5140?
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 http://dms.yryyj.site:8188/udp/239.76.253.164:9000
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
@@ -175,11 +175,7 @@ http://dms.yryyj.site:8188/udp/239.76.253.105:9000
 http://dms.yryyj.site:8188/udp/239.76.252.233:9000
 #EXTINF:-1 tvg-id="怀化综合" tvg-name="怀化综合" tvg-logo="https://live.fanmingming.com/tv/怀化综合.png" group-title="湖南频道",怀化综合
 http://dms.yryyj.site:8188/udp/239.76.255.12:9000
-#EXTINF:-1 tvg-id="长沙女性" tvg-name="长沙女性" tvg-logo="https://live.fanmingming.com/tv/长沙女性.png" group-title="湖南频道",长沙女性
-http://dms.yryyj.site:8188/udp/239.76.252.23:9000
 #EXTINF:-1 tvg-id="长沙新闻" tvg-name="长沙新闻" tvg-logo="https://live.fanmingming.com/tv/长沙新闻.png" group-title="湖南频道",长沙新闻
 http://dms.yryyj.site:8188/udp/239.76.253.121:9000
-#EXTINF:-1 tvg-id="长沙影视" tvg-name="长沙影视" tvg-logo="https://live.fanmingming.com/tv/长沙影视.png" group-title="湖南频道",长沙影视
-http://dms.yryyj.site:8188/udp/239.76.252.204:9000
 #EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/长沙政法.png" group-title="湖南频道",长沙政法
 http://dms.yryyj.site:8188/udp/239.76.253.122:9000
