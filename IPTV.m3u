@@ -73,11 +73,11 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m
 
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-https://yang-1989.eu.org/tvb/fhzw
+http://dms.yryyj.site:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 https://tv.iill.top/youtube/phoenixtvhk
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-https://yang-1989.eu.org/tvb/fhxg
+http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
 
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -303,3 +303,28 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226398/index.m3u8
 #EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕视频",咪咕体育
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226469/index.m3u8
+
+
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="湖南频道",湖南爱晚
+http://dms.yryyj.site:8188/udp/239.76.253.106:9000
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="湖南频道",湖南电视剧
+http://dms.yryyj.site:8188/udp/239.76.252.118:9000
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="湖南频道",湖南电影
+http://dms.yryyj.site:8188/udp/239.76.252.119:9000
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="湖南频道",湖南都市
+http://dms.yryyj.site:8188/udp/239.76.253.104:9000
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="湖南频道",湖南国际
+http://dms.yryyj.site:8188/udp/239.76.253.102:9000
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="湖南频道",湖南经视
+http://dms.yryyj.site:8188/udp/239.76.253.103:9000
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="湖南频道",湖南娱乐
+http://dms.yryyj.site:8188/udp/239.76.253.105:9000
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="湖南频道",湖南教育
+http://dms.yryyj.site:8188/udp/239.76.252.233:9000
+#EXTINF:-1 tvg-id="怀化综合" tvg-name="怀化综合" tvg-logo="https://live.fanmingming.com/tv/怀化综合.png" group-title="湖南频道",怀化综合
+http://dms.yryyj.site:8188/udp/239.76.255.12:9000
+#EXTINF:-1 tvg-id="长沙新闻" tvg-name="长沙新闻" tvg-logo="https://live.fanmingming.com/tv/长沙新闻.png" group-title="湖南频道",长沙新闻
+http://dms.yryyj.site:8188/udp/239.76.253.121:9000
+#EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/长沙政法.png" group-title="湖南频道",长沙政法
+http://dms.yryyj.site:8188/udp/239.76.253.122:9000
+
