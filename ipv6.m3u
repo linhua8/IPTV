@@ -146,9 +146,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字频道",金色学堂
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="数字频道",卡酷少儿
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/7589856436881630561/1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
@@ -392,54 +392,10 @@ http://cfss.cc/cdn/hy/11601960.flv
 http://cfss.cc/cdn/hy/11352903.flv
 #EXTINF:-1 group-title="影视轮播",怪兽系列
 http://cfss.cc/cdn/hy/21059554.flv
-#EXTINF:-1 group-title="影视轮播",陈翔六点半
-http://cfss.cc/cdn/hy/11274154.flv
 #EXTINF:-1 group-title="影视轮播",电影狂人
 http://cfss.cc/cdn/hy/18715610.flv
-#EXTINF:-1 group-title="影视轮播",鹿哥电影
-http://cfss.cc/cdn/hy/24396360.flv
-#EXTINF:-1 group-title="影视轮播",斌哥漫说
-http://cfss.cc/cdn/hy/18632116.flv
-#EXTINF:-1 group-title="影视轮播",续哥说电影
-http://cfss.cc/cdn/hy/24396472.flv
-#EXTINF:-1 group-title="影视轮播",小川侃电影
-http://cfss.cc/cdn/hy/15870999.flv
-#EXTINF:-1 group-title="影视轮播",阿钙扒瞎
-http://cfss.cc/cdn/hy/15978172.flv
-#EXTINF:-1 group-title="影视轮播",阿良说剧
-http://cfss.cc/cdn/hy/20488841.flv
-#EXTINF:-1 group-title="影视轮播",鱼丸电影
-http://cfss.cc/cdn/hy/16615910.flv
-#EXTINF:-1 group-title="影视轮播",阿斗说电影
-http://cfss.cc/cdn/hy/13303478.flv
-#EXTINF:-1 group-title="影视轮播",扁豆看电影
-http://cfss.cc/cdn/hy/16028551.flv
-#EXTINF:-1 group-title="影视轮播",乌贼说电影
-http://cfss.cc/cdn/hy/16604522.flv
-#EXTINF:-1 group-title="影视轮播",大象放映室
-http://cfss.cc/cdn/hy/21277391.flv
-#EXTINF:-1 group-title="影视轮播",科幻梦工场
-http://cfss.cc/cdn/hy/15152155.flv
-#EXTINF:-1 group-title="影视轮播",亮哥讲电影
-http://cfss.cc/cdn/hy/16144175.flv
 #EXTINF:-1 group-title="影视轮播",越哥说电影
 http://cfss.cc/cdn/hy/15894162.flv
-#EXTINF:-1 group-title="影视轮播",小冉看电影
-http://cfss.cc/cdn/hy/17341907.flv
-#EXTINF:-1 group-title="影视轮播",虎妞说电影
-http://cfss.cc/cdn/hy/20343144.flv
-#EXTINF:-1 group-title="影视轮播",涵哥评电影
-http://cfss.cc/cdn/hy/16865726.flv
-#EXTINF:-1 group-title="影视轮播",老皮讲电影
-http://cfss.cc/cdn/hy/16968572.flv
-#EXTINF:-1 group-title="影视轮播",默爷侃电影
-http://cfss.cc/cdn/hy/17204307.flv
-#EXTINF:-1 group-title="影视轮播",冷君说电影
-http://cfss.cc/cdn/hy/16739452.flv
-#EXTINF:-1 group-title="影视轮播",刘老师说电影
-http://cfss.cc/cdn/hy/20289754.flv
-#EXTINF:-1 group-title="影视轮播",恐怖电影解说
-http://cfss.cc/cdn/hy/16741179.flv
 #EXTINF:-1 group-title="影视轮播",老三国
 http://cfss.cc/cdn/hy/11602081.flv
 #EXTINF:-1 group-title="影视轮播",新三国
