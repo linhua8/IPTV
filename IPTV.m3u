@@ -51,7 +51,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000018044/index.m3u8?
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000003639/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000003639
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000006119/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000006119
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000002000016825/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000016825
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000009186/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000009186
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -157,7 +157,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字频道",黑莓动画
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000021734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000021734
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
-http://[2409:8087:5e08:24::11]:6610/000000001000/8785669936177902664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8785669936177902664
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000001/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000001
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="数字频道",东方财经
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字频道",法治天地
@@ -242,7 +242,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000005/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000044/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000044
 #EXTINF:-1 tvg-name="newtv古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="New频道",古装剧场
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000024/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000024
-#EXTINF:-1 tvg-name="newtv怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NEWTV怡伴健康.png" group-title="New频道",怡伴健康
+#EXTINF:-1 tvg-name="newtv怡伴健康" tvg-logo="https://epg.112114.xyz/logo/NEWTV怡伴健康.png" group-title="New频道",怡伴健康
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000023/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000023
 
 
@@ -268,7 +268,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000220630/index.m3u8?
 #EXTINF:-1,tvg-id="爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="爱好频道",iHOT爱旅行
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000250630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000250630
 #EXTINF:-1,tvg-id="爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://live.fanmingming.com/tv/IHOT爱幼教.png" group-title="爱好频道",iHOT爱幼教
-http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000180630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000180630
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000049
 #EXTINF:-1,tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="爱好频道",iHOT爱谍战
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000070630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000070630
 #EXTINF:-1,tvg-id="爱历史" tvg-name="iHOT爱历史" tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png" group-title="爱好频道",iHOT爱历史
