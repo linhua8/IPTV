@@ -181,14 +181,16 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字频道",黑莓动画
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000021734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000021734
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000119/index.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000270001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270001
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000270002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270002
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="数字频道",睛彩青少
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000270007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270007
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
-#EXTINF:-1 tvg-name="爱上自然"tvg-logo="https://epg.112114.xyz/logo/爱上自然.png" group-title="数字频道",爱上自然 4K
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="数字频道",咪咕视频
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000270004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270004
+#EXTINF:-1 tvg-name="爱上自然"tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="数字频道",爱上自然 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="法国时尚"tvg-logo="https://epg.112114.xyz/logo/法国时尚.png" group-title="数字频道",法国时尚 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -224,7 +226,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000018/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000021/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000021
 #EXTINF:-1 tvg-name="newtv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="New频道",精品纪录
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000013730/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000013730
-#EXTINF:-1 tvg-name="newtv精品综合" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品综合.png" group-title="New频道",精品综合
+#EXTINF:-1 tvg-name="newtv精品综合" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品综合.png" group-title="New频道",精品综合
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="newtv农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="New频道",农业致富
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000003/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000003
@@ -281,9 +283,9 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000160630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000160630
 #EXTINF:-1,tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="爱好频道",iHOT爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000280630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000280630
-#EXTINF:-1,tvg-id="亚洲影院" tvg-name="iHOT亚洲影院" tvg-logo="https://live.fanmingming.com/tv/IHOT亚洲影院.png" group-title="爱好频道",iHOT亚洲影院
+#EXTINF:-1,tvg-id="亚洲影院" tvg-name="iHOT亚洲影院" tvg-logo="https://epg.112114.xyz/logo/IHOT亚洲影院.png" group-title="爱好频道",iHOT亚洲影院
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="欧美影院" tvg-name="iHOT欧美影院" tvg-logo="https://live.fanmingming.com/tv/IHOT欧美影院.png" group-title="爱好频道",iHOT欧美影院
+#EXTINF:-1,tvg-id="欧美影院" tvg-name="iHOT欧美影院" tvg-logo="https://epg.112114.xyz/logo/IHOT欧美影院.png" group-title="爱好频道",iHOT欧美影院
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
 
 
