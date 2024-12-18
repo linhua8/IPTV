@@ -287,5 +287,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000280630/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="欧美影院" tvg-name="iHOT欧美影院" tvg-logo="https://epg.112114.xyz/logo/IHOT欧美影院.png" group-title="爱好频道",iHOT欧美影院
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
-
-
+#EXTINF:-1,tvg-id="精品剧场" tvg-name="iHOT精品剧场" tvg-logo="https://epg.112114.xyz/logo/IHOT精品剧场.png" group-title="爱好频道",iHOT精品剧场
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000002/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000002
+#EXTINF:-1,tvg-id="高清娱乐" tvg-name="iHOT高清娱乐" tvg-logo="https://epg.112114.xyz/logo/IHOT高清娱乐.png" group-title="爱好频道",iHOT高清娱乐
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000013/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000013
