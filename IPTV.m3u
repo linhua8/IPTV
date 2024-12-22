@@ -155,7 +155,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/6000000002000032344/index.m3u8?
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="数字频道",卡酷少儿
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031203/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031203
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
@@ -169,7 +169,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031114/index.m3u8?
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="数字频道",动漫秀场
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031113/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031113
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000061/index.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000003775/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003775
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
