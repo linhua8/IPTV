@@ -141,47 +141,47 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/5000000011000031126/index.m3u8?
 #EXTINF:-1 tvg-name="纯享4K"tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字频道",纯享4K
 http://[2409:8087:5e00:24::20]:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
 #EXTINF:-1 tvg-name="华数4K"tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="数字频道",华数4K
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场
-http://[2409:8087:5e00:24::20]:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
 http://[2409:8087:5e00:24::20]:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",纪实科教
 http://[2409:8087:5e00:24::20]:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字频道",都市剧场
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/JCYS.png" group-title="数字频道",精彩影视
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="数字频道",东方影视
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字频道",生活时尚
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字频道",金色学堂
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:5e00:24::20]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字频道",都市剧场
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/JCYS.png" group-title="数字频道",精彩影视
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="数字频道",东方影视
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字频道",生活时尚
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字频道",金色学堂
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="数字频道",东方财经
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字频道",法治天地
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字频道",五星体育
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/第一财经.png" group-title="数字频道",第一财经
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字频道",劲爆体育
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字频道",中国天气
 http://[2409:8087:5e00:24::20]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道",求索纪录
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道",求索科学
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道",求索生活
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道",求索动物
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="数字频道",求索生活
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="数字频道",求索动物
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="数字频道",求索科学
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="数字频道",卡酷少儿
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000265008/index.m3u8?channel-id=bestzb&Contentid=5000000011000265008&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
@@ -218,6 +218,10 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1000000006000270002/index.m3u8?
 http://[2409:8087:5e00:24::20]:6610/000000001000/1000000006000270007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270007
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
 http://[2409:8087:5e00:24::20]:6610/000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="数字频道",咪咕视频
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="数字频道",咪咕体育
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="爱上自然"tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="数字频道",爱上自然 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="法国时尚"tvg-logo="https://epg.112114.xyz/logo/法国时尚.png" group-title="数字频道",法国时尚 4K
@@ -279,32 +283,80 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/2000000003000000003/index.m3u8?
 
 
 #EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="爱好频道",iHOT爱院线
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000034/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="爱好频道",iHOT爱科幻
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000033/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱浪漫.png" group-title="爱好频道",iHOT爱浪漫
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000035/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="爱好频道",iHOT爱喜剧
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000032/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱悬疑" tvg-name="iHOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/IHOT爱悬疑.png" group-title="爱好频道",iHOT爱悬疑
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000036/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="爱好频道",iHOT爱赛车
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000055/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱体育" tvg-name="iHOT爱体育" tvg-logo="https://live.fanmingming.com/tv/IHOT爱体育.png" group-title="爱好频道",iHOT爱体育
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000060/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png" group-title="爱好频道",iHOT爱奇谈
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000058/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://live.fanmingming.com/tv/IHOT爱玩具.png" group-title="爱好频道",iHOT爱玩具
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000053/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="爱好频道",iHOT爱旅行
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000056/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://live.fanmingming.com/tv/IHOT爱幼教.png" group-title="爱好频道",iHOT爱幼教
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000049/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="爱好频道",iHOT爱谍战
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000038/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱历史" tvg-name="iHOT爱历史" tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png" group-title="爱好频道",iHOT爱历史
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000046/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱科学" tvg-name="iHOT爱科学" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科学.png" group-title="爱好频道",iHOT爱科学
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000047/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="爱好频道",iHOT爱动漫
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000059/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=YanG-1989
+
+
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",星光影院
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288013/index.m3u8?channel-id=bestzb&Contentid=5000000011000288013&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",谍战剧场
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288004/index.m3u8?channel-id=bestzb&Contentid=5000000011000288004&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",华语影院
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288005/index.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",全球大片
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288009/index.m3u8?channel-id=bestzb&Contentid=5000000011000288009&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",热门剧场
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288010/index.m3u8?channel-id=bestzb&Contentid=5000000011000288010&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",宝宝动画
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288002/index.m3u8?channel-id=bestzb&Contentid=5000000011000288002&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",精品综合
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5595720619887440144/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",电竞天堂
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288003/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",热门综艺
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288011/index.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",戏曲精选
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288012/index.m3u8?channel-id=bestzb&Contentid=5000000011000288012&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title=百事通",热播精选
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/7681593242002292003/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",看天下精选
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288007/index.m3u8?channel-id=bestzb&Contentid=5000000011000288007&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",亚洲影院
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",欧美影院
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",探索纪录
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",少儿动漫
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",青春动漫
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",百变课堂
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288001/index.m3u8?channel-id=bestzb&Contentid=5000000011000288001&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",电子竞技
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",风尚音乐
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",高清娱乐
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",漫游世界
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通",英雄联盟音乐节
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/8978605063318475207/index.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=YanG-1989
