@@ -36,6 +36,8 @@ http://z.b.bkpcp.top/m.php?id=cctv13
 http://z.b.bkpcp.top/m.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://z.b.bkpcp.top/m.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://nas.zyylover.homes:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://z.b.bkpcp.top/m.php?id=cctv17
 
@@ -49,9 +51,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="卫视频道",翡翠台
 http://cdn.132.us.kg/live/fct4k/stream.m3u8
-#EXTINF:-1 tvg-name="爱上自然"tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="数字频道",爱上自然 4K
+#EXTINF:-1 tvg-name="爱上自然"tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="卫视频道",爱上自然 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="法国时尚"tvg-logo="https://epg.112114.xyz/logo/法国时尚.png" group-title="数字频道",法国时尚 4K
+#EXTINF:-1 tvg-name="法国时尚"tvg-logo="https://epg.112114.xyz/logo/法国时尚.png" group-title="卫视频道",法国时尚 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
