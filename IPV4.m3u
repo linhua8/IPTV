@@ -41,14 +41,7 @@ http://tvcdn.kkmz.top/itv/5000000008000023254.m3u8?cdn=bestzb
 http://tvcdn.kkmz.top/itv/1000000006000268004.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://tvcdn.kkmz.top/gaoma/cctv4k.m3u8
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视频道",风云音乐
-http://jf.jxx2023.work:40446/tsfile/live/1148_1.m3u8
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",怀旧剧场
-http://jf.jxx2023.work:40446/tsfile/live/1149_1.m3u8
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",风云剧场
-http://jf.jxx2023.work:40446/tsfile/live/1150_1.m3u8
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",第一剧场
-http://jf.jxx2023.work:40446/tsfile/live/1049_1.m3u8
+
 
 
 
@@ -59,8 +52,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="卫视频道",翡翠台
-http://cdn.132.us.kg/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://tvcdn.kkmz.top/itv/6000000001000020451.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -302,31 +293,31 @@ http://tvcdn.kkmz.top/itv/6000000006000280630.m3u8?cdn=wasusyt
 
 
 
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",星光影院
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",星光影院
 http://tvcdn.kkmz.top/itv/5000000011000288013.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",谍战剧场
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",谍战剧场
 http://tvcdn.kkmz.top/itv/5000000011000288004.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",全球大片
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",全球大片
 http://tvcdn.kkmz.top/itv/5000000011000288009.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",热门剧场
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",热门剧场
 http://tvcdn.kkmz.top/itv/5000000011000288010.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",宝宝动画
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",宝宝动画
 http://tvcdn.kkmz.top/itv/5000000011000288002.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",电竞天堂
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",电竞天堂
 http://tvcdn.kkmz.tops/itv/5000000011000288003.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",热门综艺
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",热门综艺
 http://tvcdn.kkmz.top/itv/5000000011000288011.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",戏曲精选
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",戏曲精选
 http://tvcdn.kkmz.top/itv/5000000011000288012.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",看天下精选
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",看天下精选
 http://tvcdn.kkmz.top/itv/5000000011000288007.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",少儿动漫
-http://tvcdn.kkmz.tops/itv/8145334647720731271.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",青春动漫
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",少儿动漫
+http://tvcdn.kkmz.tops/itv/814533647720731271.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",青春动漫
 http://tvcdn.kkmz.top/itv/5000000011000288008.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",百变课堂
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",百变课堂
 http://tvcdn.kkmz.top/itv/5000000011000288001.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",电子竞技
+#EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事频道",电子竞技
 http://tvcdn.kkmz.top/itv/6000000003000011654.m3u8?cdn=bestzb
 
 
