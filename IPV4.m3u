@@ -41,6 +41,12 @@ http://tvcdn.kkmz.top/itv/1000000006000233002.m3u8?cdn=ystenlive
 http://tvcdn.kkmz.top/itv/1000000005000056836.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://tvcdn.kkmz.top/gaoma/cctv4k.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
+http://101.204.187.4:8006/hls.p2p.com/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E&U&A&K&P&S
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+http://101.204.187.4:8006/hls.p2p.com/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E&U&A&K&P&S
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
+http://101.204.187.4:8006/hls.p2p.com/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E&U&A&K&P&S
 
 
 
