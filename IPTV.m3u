@@ -14,7 +14,7 @@ http://z.b.bkpcp.top/m.php?id=cctv4m
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://ray.800203.xyz:5000/TVOD/1000000001000004794/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://ray.800203.xyz:5000/TVOD/1000000005000265005/ystenlive/index.m3u8
+http://ray.800203.xyz:5000/TVOD/1000000001000020505/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://ray.800203.xyz:5000/TVOD/1000000005000265006/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
