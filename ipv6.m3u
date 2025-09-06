@@ -1,40 +1,40 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.60:8084
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.172:8001
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.105:8092
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.173:8001
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.130:8004
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.174:8001
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.61:8104
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.175:8001
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.62:8112
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.63:8116
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.152:8120
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.64:8124
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.124:8128
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
+http://xunchi.asuscomm.com:3000/rtp/239.3.1.151:8144
 
 
 
