@@ -34,7 +34,7 @@ http://116.77.33.196:44330/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://116.77.33.196:44330/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://36.135.118.195:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=20251001120111a2f4732e17a34a8a8c62fbd6cf0c3c45&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251001120111&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.88&SecurityKey=20251001120111&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=99283a327cb61e41f2a7cf75f1e1aa8a&ddCalcu=a989ea20a83130ea13f2577cfbc671ae24f1
 
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
@@ -79,6 +79,7 @@ http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+
 
 
 
